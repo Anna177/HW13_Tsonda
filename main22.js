@@ -105,5 +105,3 @@ const module = (function() {
         setStr, getStr, detLength, getInvert
     }
 })();
-
-
